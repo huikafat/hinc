@@ -3348,7 +3348,6 @@ body.c {  background-color:rgba(247, 252, 255, 1);
   left:71px;
   top:1182px;
   width:634px;
-  height:24px;
 }
 #u67_div.c {
   border-width:0px;
@@ -3369,7 +3368,6 @@ body.c {  background-color:rgba(247, 252, 255, 1);
   left:71px;
   top:1182px;
   width:634px;
-  height:24px;
 }
 #u67_text.c {
 }
@@ -14898,6 +14896,7 @@ body.d {  background-color:rgba(247, 252, 255, 1);
   left:66px;
   top:1066px;
   width:316px;
+  height:48px;
 }
 #u67_div.d {
   border-width:0px;
@@ -14918,6 +14917,7 @@ body.d {  background-color:rgba(247, 252, 255, 1);
   left:66px;
   top:1066px;
   width:316px;
+  height:48px;
 }
 #u67_text.d {
 }
