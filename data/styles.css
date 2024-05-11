@@ -15,7 +15,7 @@
   font-weight:650;
   font-style:normal;
   font-size:16px;
-  color:#3D3D3D;
+  color:#2A2E2E;
   text-align:left;
 }
 ._14_3d {
@@ -27,11 +27,11 @@
   text-align:left;
 }
 ._13_666_正文 {
-  font-family:'PingFangSC-Light', 'PingFang SC Light', 'PingFang SC', sans-serif;
-  font-weight:200;
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
   font-style:normal;
   font-size:13px;
-  color:#7F8693;
+  color:#5F6464;
   text-align:justify;
   text-justify:inter-word;
   line-height:24px;
